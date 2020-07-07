@@ -1,0 +1,7 @@
+"0", "0"
+"Setuju", "3"
+"Tidak", "5"
+"Tanggapi", "2"
+"Abaikan", "1"
+"Ikuti keinginannya", "1"
+"Bantah pendapatnya", "4"

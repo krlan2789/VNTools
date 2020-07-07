@@ -1,0 +1,15 @@
+[System.Serializable]
+public class DialogueLines
+{
+  public string index0, index1, index2, index3, index4, index5, index6;
+  public DialogueLines(string _index0 = "0", string _index1 ="0", string _index2 = "0", string _index3 = "0", string _index4 = "0", string _index5 = "0", string _index6 = "0")
+  {
+    index0 = _index0;
+    index1 = _index1;
+    index2 = _index2;
+    index3 = _index3;
+    index4 = _index4;
+    index5 = _index5;
+		index6 = _index6;
+  }
+}

@@ -1,0 +1,3 @@
+- Menampilkan char image
+- Posisi char image
+- Memuat game ketika sedang didalam scene Gameplay

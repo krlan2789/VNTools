@@ -1,0 +1,7 @@
+"elf", "Ooii valkyrie . , gimana kabarmu ?", "elf_201", "OW_R1", "sunset001", "0"
+"valkyrie", "Oohh elf, aku baik-baik saja. Gimana denganmu ?", "valkyrie_101", "AD_L2", "sunset001", "1"
+"elf", "Aku juga baik.", "elf_201", "OW_R1", "sunset001", "0"
+"elf", "Gimana dengan sekolah pilihanmu ? Apa kamu sudah menentukannya ?", "elf_200", "OW_R1", "sunset001", "0"
+"valkyrie", "Kalo aku sudah menentukan sejak Ujian Nasional. Aku akan lanjut ke Sekolah ABC", "valkyrie_100", "OW_L2", "sunset001", "0"
+"valkyrie", "Gimana denganmu ?", "valkyrie_100", "RM_C", "sunset001", "0"
+"elf", "Aku masih belum menentukan.", "elf_200", "OW_R2", "sunset001", "2"
